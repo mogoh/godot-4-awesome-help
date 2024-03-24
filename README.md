@@ -377,6 +377,7 @@ YouTube and Twitch streamer.
 - Nodot plugin collection https://github.com/NodotProject/nodot/
 - Mobile share module https://github.com/Shin-NiL/Godot-Share
 - Weather System https://codeberg.org/matiaslavik/GodotWeatherSystem/src/branch/main/README.md
+- Vegard Beider: How to create an SVG Atlas https://www.youtube.com/watch?v=1c9slFDQpyA
 
 ## Other programming languages for Godot
 
