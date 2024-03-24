@@ -183,6 +183,10 @@ YouTube and Twitch streamer.
 - Michael Burt: Precise Position and Speed https://www.youtube.com/watch?v=QC0Ihgx_9T4
 - Strafe animation and andimation blending https://www.youtube.com/watch?v=M5OBPO6MnnQ
 
+#### Partical System
+
+-  Bonkahe: GPUParticles https://www.youtube.com/watch?v=BUa-mKHEPUM
+
 #### Blender, Mixamo, and Import
 
 - Flyn San: Reusable Animation Libraries with Godot, Blender and Mixamo https://www.youtube.com/watch?v=xGHgA5oftxY
