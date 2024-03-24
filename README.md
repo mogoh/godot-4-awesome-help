@@ -1,28 +1,28 @@
 # Godot 4 Awesome Help
 
 
-This is a list of helpful Godot 4 tutorials, ressources, and help.
+This is a list of helpful Godot 4 tutorials, resources, and help.
 It started as I went through a some tutorials and sorted them for later use, but then I thought it might be helpful for others.
 The general gist is, that if I need help on a specific topic, this List should be helpful.
 
 ## What goes in this list?
 
-Generally everything that is helpful for making games with Godot 4, fokusing on the latest version.
-Mainly this are tutorials.
+Generally everything that is helpful for making games with Godot 4, focusing on the latest version.
+Mainly these are tutorials.
 
 ## What does not belong in this list?
 
-However, this is a personal currated list and I make a cut at some point:
+However, this is a personal curated list and I make a cut at some point:
 
 - Video tutorials, that have bad sound quality or no audio commentary.
-- Video tutorials that try to speedrun the tutorial are not for this list.
+- Video tutorials that try to speed run the tutorial are not for this list.
 - Tutorials, that are hard to follow.
 - Dev logs are not for this list.
 
 ## Contribute
 
 If something is missing, create a pull request or just an issue.
-Same goes for bad sorted stuff.
+The same goes for bad sorted stuff.
 
 ## Official Godot sites
 
