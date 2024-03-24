@@ -108,6 +108,7 @@ YouTube and Twitch streamer.
 - GDQuest: Move, Rotate and Scale 3D Models https://www.youtube.com/watch?v=mK2oSutQLds
 - GDQuest: Access Nodes https://www.youtube.com/watch?v=UxwKeoENwwE
 - GDQuest: Undocking and Moving Docks https://www.youtube.com/watch?v=gqfWjDhAFWA
+- Godotneers: Learn programming with GDScript https://www.youtube.com/watch?v=cx_yTggSENU
 
 ### Tutorial Series / Complete Games
 
@@ -118,6 +119,7 @@ YouTube and Twitch streamer.
 - GDQuest: Vampire Survivor Style Game https://www.youtube.com/watch?v=GwCiGixlqiU
 - FinePointCGI: Creating an FPS https://www.youtube.com/playlist?list=PLQl2eWiUO8_KIRgkRLDDnEpOQxo5nBdkq
 - Sable Spirit Studio: Idle Game Tutorial https://www.youtube.com/playlist?list=PLgBln8F2Q8BzWYUrRSIkC2RlT-YHf0BQ3
+- GodotGameLab: Card Game (Slay the Spire-like game) https://www.youtube.com/playlist?list=PL6SABXRSlpH8CD71L7zye311cp9R4JazJ
 
 ### Short Tips and Tricks
 
@@ -138,6 +140,7 @@ YouTube and Twitch streamer.
 - GDQuest: Use the Revamped Setter and Getter Functions https://www.youtube.com/watch?v=PDISK_JPPQE
 - Unain: Custom Resources https://www.youtube.com/watch?v=NuLSYHK-8Yg
 - Tutemic: Interfaces-like in GDScript https://www.youtube.com/watch?v=pBs6c902P0Q
+- SirLich: Godot Singletons https://www.youtube.com/watch?v=ske-iL4mxdI
 
 ### Architecture
 
@@ -187,6 +190,14 @@ YouTube and Twitch streamer.
 
 -  Bonkahe: GPUParticles https://www.youtube.com/watch?v=BUa-mKHEPUM
 
+### Optimization
+
+- LynchMakesGames: Fur and Hair Using Multimesh https://www.youtube.com/watch?v=0Ku4d7yxsCU
+
+### Post Processing
+
+- Bonkahe: Basic Post Processing https://www.youtube.com/watch?v=yW15z7xqMnw
+
 #### Blender, Mixamo, and Import
 
 - Flyn San: Reusable Animation Libraries with Godot, Blender and Mixamo https://www.youtube.com/watch?v=xGHgA5oftxY
@@ -199,6 +210,7 @@ YouTube and Twitch streamer.
   - https://www.youtube.com/watch?v=UuYTZ82f5po
   - https://www.youtube.com/watch?v=P-U7ynJxSdY
 - Michael Burt: Terrain Building https://www.youtube.com/watch?v=1uBdnktkuHU
+- Byte Myke: Easy and Automatic 3D Animations using Mixamo https://www.youtube.com/watch?v=Tbfc_5syCMk
 
 #### Player Controller
 
@@ -231,6 +243,7 @@ YouTube and Twitch streamer.
 - 3D Navigation in Godot https://www.danieltperry.me/post/godot-navigation/
 - DevLogLogan: AI Pathfinding/Navigation https://www.youtube.com/watch?v=-juhGgA076E
 - moeDev: Add Pathfinding or Navigation in 3D https://www.youtube.com/watch?v=_XweZXwQgFM
+- Michael Jared: Custom NavMeshes https://www.youtube.com/watch?v=3Usu6WDQHfA
 
 ### Network
 
@@ -242,6 +255,7 @@ YouTube and Twitch streamer.
 - FinePointCGI: Securing Your Games Network Connection https://www.youtube.com/watch?v=2eGkj9eBxAo
 - CrushingJosch: Server Browser https://www.youtube.com/watch?v=x-PF_EZI2ZM
 - Networked Authentication with SceneMultiplaye https://docs.google.com/document/d/1-aifgY0WxmovcG5dVTdjlJDWzsZ0opez62O49yNdrgI/
+- Byte Myke: Make HTTP requests https://www.youtube.com/watch?v=feglSdhhS9M
 
 ### File and data I/O
 
@@ -257,6 +271,7 @@ YouTube and Twitch streamer.
 - Godotneers: Welcome to Shaderland - An introduction to shaders in Godot https://www.youtube.com/watch?v=nyFzPaWAzeQ
 - Crigz Vs Game Dev: 3D Pixel Art Shader https://www.youtube.com/watch?v=WBoApONC7bM
 - Digvijaysinh Gohil: Ray-marching https://www.youtube.com/watch?v=68G3V5Yr8FY
+- Digvijaysinh Gohil: Chroma key visual shader (Green screen remover) https://www.youtube.com/watch?v=cnaOhKxE69U
 
 ### Procedural Generation
 
@@ -269,7 +284,13 @@ YouTube and Twitch streamer.
 ### Export
 
 - https://docs.godotengine.org/en/stable/tutorials/export/index.html
-- FencerDevLog: Exporting for Windows https://www.youtube.com/watch?v=WoXtLBuK11Y
+- Rihards Paskausks: FencerDevLog: Exporting for Windows https://www.youtube.com/watch?v=WoXtLBuK11Y
+
+### Internationalization / Localization / Translation
+
+- Whiskeybarrel Studios: Localize your game https://www.youtube.com/watch?v=QT3S2e8OOiU
+- Voylin's GameDev Journey: Localization with POT-Files https://www.youtube.com/watch?v=lwQs-h7kyuM
+- Translate custom Resources https://rp.wtf/articles/translate-custom-resources-in-godot/
 
 ### Problem specific
 
@@ -278,8 +299,6 @@ YouTube and Twitch streamer.
 - DevLogLogan: Forest Night Environment https://www.youtube.com/watch?v=x4xS3N2GF-Q
 - quwatz_: Hiding texture repetition https://www.youtube.com/watch?v=ssrJGxMtssE
 - Chaff Games: AMD FSR https://www.youtube.com/watch?v=NY5ZkBSGpEA
-- Whiskeybarrel Studios: Localize your game https://www.youtube.com/watch?v=QT3S2e8OOiU
-- Voylin's GameDev Journey: Localization with POT-Files https://www.youtube.com/watch?v=lwQs-h7kyuM
 - MmmmmmmmmmmmmmmmmmmDonuts: 3 Ways to Create Timers https://www.youtube.com/watch?v=1sYgGvrDYag
 - JungaBoon: How to add dynamic weapon sway and recoil https://www.youtube.com/watch?v=JrQicb3fwiA
 - MmmmmmmmmmmmmmmmmmmDonuts: 2D Smoothing Movement / Fixing Some Jitter in Godot 4 Using Lawnjelly's Smoothing Plugin https://www.youtube.com/watch?v=xBFB6g1j108
@@ -288,6 +307,7 @@ YouTube and Twitch streamer.
 - Nagi: Fall Damage https://www.youtube.com/watch?v=X6gfjdXckpA
 - FencerDevLog: Pause and Resume https://www.youtube.com/watch?v=kn8yOGEvCo0
 - Ivorius: Gravity of Spheres https://www.youtube.com/watch?v=7gZzDM-29WQ https://github.com/Ivorforce/Godot4-Custom-Gravity/
+- Nishchal Bhandari: Building Better Movement https://nishchalb.github.io/posts/godot_building_better_movement/
 
 #### Inventory
 
@@ -326,6 +346,7 @@ YouTube and Twitch streamer.
 - HeightMap terrain plugin for Godot Engine https://github.com/Zylann/godot_heightmap_plugin
 - Spatial Gardener: A Godot plugin for painting foliage and props on any 3D surface https://github.com/dreadpon/godot_spatial_gardener
 - WFC (Wave Function Collapse) and generic constraint-solving (a fancy way of saying "model synthesis". No quantum physics involved) https://github.com/AlexeyBond/godot-constraint-solving
+- mohsen zare: Generating Moutain terrain https://www.youtube.com/watch?v=7CTH6bP850I
 
 ### Input
 
