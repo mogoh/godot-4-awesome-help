@@ -1,49 +1,28 @@
-Feel free to expand this list of useful links.
+# Godot 4 Awesome Help
 
-Include links that you visited and found helpful.
-Lists and Collections can be put at the end.
 
-## Table of Content
+This is a list of helpful Godot 4 tutorials, ressources, and help.
+It started as I went through a some tutorials and sorted them for later use, but then I thought it might be helpful for others.
+The general gist is, that if I need help on a specific topic, this List should be helpful.
 
-1. [Official Godot sites](Links#official-godot-sites)
-2. [3rd party Godot-specific websites](Links#3rd-party-godot-specific-websites)
-3. [Community figures](Links#community-figures)
-4. [Example projects and templates](Links#example-projects-and-templates)
-5. [Documentation and Tutorials](Links#documentation-and-tutorials)
-   1.  [Beginner](Links#beginner)
-   2.  [Tutorial Series](Links#tutorial-series)
-   3.  [Short Tips and Tricks](Links#short-tips-and-tricks)
-   4.  [Architecture](Links#architecture)
-   5.  [UI, Control Nodes, and Themes](Links#ui-control-nodes-and-themes)
-   6.  [Input](Links#input)
-   7.  [2D](Links#2d)
-   8.  [3D](Links#3d)
-   9.  [Audio and SFX](Links#audio-and-sfx)
-   10. [AI and Navigation](Links#ai-and-navigation)
-   11. [Network](Links#network)
-   11. [File and data I/O](Links#file-and-data-io)
-   12. [Shaders](Links#shaders)
-   13. [Procedural Generation](Links#procedural-generation)
-   14. [Export](Links#export)
-   15. [Problem specific](Links#problem-specific)
-6. [Addons](Links#addons)
-   1. [AI](Links#ai)
-   2. [Debug](Links#debug)
-   3. [Dialog](Links#dialog)
-   4. [Procedual Generation](Links#procedual-generation)
-   5. [Input](Links#input)
-   6. [File access and save](Links#file-access-and-save)
-   7. [Inventory](Links#inventory)
-   8. [Physics](Links#physics)
-   9. [Architecture and State](Links#architecture-and-state)
-   10. [Other](Links#other)
-7. [Other programming languages for Godot](Links#other-programming-languages-for-godot)
-8. [Not Godot-specific](Links#not-godot-specific)
-   1. [Websites and Tutorials](Links#websites-and-tutorials)
-   2. [Assets](Links#assets)
-   3. [Tools](Links#tools)
-   4. [Blender](Links#blender)
-9. [External lists](Links#external-lists)
+## What goes in this list?
+
+Generally everything that is helpful for making games with Godot 4, fokusing on the latest version.
+Mainly this are tutorials.
+
+## What does not belong in this list?
+
+However, this is a personal currated list and I make a cut at some point:
+
+- Video tutorials, that have bad sound quality or no audio commentary.
+- Video tutorials that try to speedrun the tutorial are not for this list.
+- Tutorials, that are hard to follow.
+- Dev logs are not for this list.
+
+## Contribute
+
+If something is missing, create a pull request or just an issue.
+Same goes for bad sorted stuff.
 
 ## Official Godot sites
 
