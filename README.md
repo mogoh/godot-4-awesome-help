@@ -74,6 +74,7 @@ YouTube and Twitch streamer.
 | Bitlytic                | [Bitlytic](https://www.youtube.com/@Bitlytic)                           |                                                    |
 | jitspoe                 | [jitspoe](https://www.youtube.com/jitspoe)                              | [jitspoe](https://www.twitch.tv/jitspoe)           |
 | TeaHands                | [teahands](https://www.youtube.com/@teahands)                           |                                                    |
+| Cashew OldDew           | [cashewolddew](https://www.youtube.com/@cashewolddew)                   | [olddews](https://www.twitch.tv/olddews)           |
 
 ## Example projects and templates
 
@@ -129,18 +130,22 @@ YouTube and Twitch streamer.
 
 ### GDScript
 
+- [Communication_between_Nodes_in_the_SceneTree](uploads/Communication_between_Nodes_in_the_SceneTree.png)
 - Gwizz: Groups https://www.youtube.com/watch?v=DMWTd3qmhYw
 - GDQuest: Lambda functions https://www.youtube.com/watch?v=wTSWn40jJys
 - Chevifier: GDScript Series https://www.youtube.com/playlist?list=PLeCKjxofwyfjW-PTuAu8pYcx3tw13r_ZE
 - Custom Resources https://ezcha.net/news/3-1-23-custom-resources-are-op-in-godot-4
 - GDQuest: Signals https://www.youtube.com/watch?v=Qlq8pBB2htg
-- GDQuest: async await https://www.youtube.com/watch?v=zumZ2Y9mPNQ
 - GDQuest: Export Annotations https://www.youtube.com/watch?v=UWqDETDjn_k
-- [Communication_between_Nodes_in_the_SceneTree](uploads/097f6212927405edaf0f3355bf1b3f5d/Communication_between_Nodes_in_the_SceneTree.png)
 - GDQuest: Use the Revamped Setter and Getter Functions https://www.youtube.com/watch?v=PDISK_JPPQE
 - Unain: Custom Resources https://www.youtube.com/watch?v=NuLSYHK-8Yg
 - Tutemic: Interfaces-like in GDScript https://www.youtube.com/watch?v=pBs6c902P0Q
 - SirLich: Godot Singletons https://www.youtube.com/watch?v=ske-iL4mxdI
+
+#### Coroutines / Async & Await
+
+- GDQuest: Coroutines, Async & Await https://www.youtube.com/watch?v=zumZ2Y9mPNQ
+- Cashew OldDew: Coroutines, Async & Await https://www.youtube.com/watch?v=EaVRT_YbmWY
 
 ### Architecture
 
