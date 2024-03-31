@@ -178,8 +178,6 @@ YouTube and Twitch streamer.
 
 ### 2D
 
-- Retrobright: AStarGrid2D https://www.youtube.com/watch?v=DkAmGxRuCk4
-- ThinkWithGames: Automatic Grid Navigation https://www.youtube.com/watch?v=_VuYGmXiTw0
 - KidsCanCode: Character to Rigid Body Interaction https://www.youtube.com/watch?v=SJuScDavstM
 - ThinkWithGames: Isometric Basics https://www.youtube.com/playlist?list=PLdgx0D0W--abiIP3d95SUClhkMd10V5m2
 - Jackie Codes: TileMap Tutorial https://www.youtube.com/watch?v=G6TC6ukmSc4
@@ -251,6 +249,8 @@ YouTube and Twitch streamer.
 
 - Cashew OldDew: 2D Grid Pathfinding with AStar [YouTube](https://www.youtube.com/watch?v=OMrDS0zlr-k) [Github](https://github.com/cashew-olddew/godot-tutorials/tree/main/4.2/3%20-%20pathfinding%20grids%20in%20godot%204.2)
 - Cashew OldDew: 2D Pathfinding on a Tilemap [YouTube](https://www.youtube.com/watch?v=ztX4OV6Syn8) [Github](https://github.com/cashew-olddew/godot-tutorials/tree/main/4.2/1%20-%20tilemap%20pathfinding)
+- Retrobright: AStarGrid2D https://www.youtube.com/watch?v=DkAmGxRuCk4
+- ThinkWithGames: Automatic Grid Navigation https://www.youtube.com/watch?v=_VuYGmXiTw0
 
 #### 3D
 
