@@ -51,30 +51,30 @@ YouTube and Twitch streamer.
 
 |                         | YouTube                                                                 | Twitch                                             |
 | ----------------------- | ----------------------------------------------------------------------- | -------------------------------------------------- |
-| The Polyglot Programmer | [thepolyglotprogrammer](https://www.youtube.com/@thepolyglotprogrammer) |                                                    |
-| Lukky                   | [lukky.](https://www.youtube.com/@lukky.)                               |                                                    |
-| Gwizz                   | [Gwizz1027](https://www.youtube.com/@Gwizz1027)                         |                                                    |
-| Godotneers              | [godotneers](https://www.youtube.com/@godotneers)                       |                                                    |
-| HeartBeast              | [uheartbeast](https://www.youtube.com/@uheartbeast)                     |                                                    |
 | bitbrain                | [bitbraindev](https://www.youtube.com/@bitbraindev)                     |                                                    |
-| Chaff Games             | [Chaff_Games](https://www.youtube.com/@Chaff_Games)                     |                                                    |
-| Jackie Codes            | [JackieCodes](https://www.youtube.com/@JackieCodes)                     | [jackie_codes](https://www.twitch.tv/jackie_codes) |
-| while(free)             | [whilefree](https://www.youtube.com/@whilefree)                         |                                                    |
-| Bonkahe                 | [Bonkahe](https://www.youtube.com/@Bonkahe)                             |                                                    |
-| quwatz_                 | [quwatz](https://www.youtube.com/@quwatz)                               |                                                    |
-| FinePointCGI            | [FinePointCGI](https://www.youtube.com/@FinePointCGI)                   |                                                    |
-| Nanotech Gamedev        | [nanotechgamedev](https://www.youtube.com/@nanotechgamedev)             |                                                    |
-| Maker Tech              | [MakerTech](https://www.youtube.com/@MakerTech)                         |                                                    |
-| DashNothing             | [DashNothing](https://www.youtube.com/@DashNothing)                     |                                                    |
-| GDQuest                 | [Gdquest](https://www.youtube.com/@Gdquest)                             |                                                    |
-| something like games    | [somethinglikegames](https://www.youtube.com/@somethinglikegames)       |                                                    |
-| DevLogLogan             | [DevLogLogan](https://www.youtube.com/@DevLogLogan)                     |                                                    |
-| Flyn San                | [flynsarmy](https://www.youtube.com/@flynsarmy)                         |                                                    |
-| PlayWithFurcifer        | [PlayWithFurcifer](https://www.youtube.com/@PlayWithFurcifer)           |                                                    |
 | Bitlytic                | [Bitlytic](https://www.youtube.com/@Bitlytic)                           |                                                    |
-| jitspoe                 | [jitspoe](https://www.youtube.com/jitspoe)                              | [jitspoe](https://www.twitch.tv/jitspoe)           |
-| TeaHands                | [teahands](https://www.youtube.com/@teahands)                           |                                                    |
+| Bonkahe                 | [Bonkahe](https://www.youtube.com/@Bonkahe)                             |                                                    |
 | Cashew OldDew           | [cashewolddew](https://www.youtube.com/@cashewolddew)                   | [olddews](https://www.twitch.tv/olddews)           |
+| Chaff Games             | [Chaff_Games](https://www.youtube.com/@Chaff_Games)                     |                                                    |
+| DashNothing             | [DashNothing](https://www.youtube.com/@DashNothing)                     |                                                    |
+| DevLogLogan             | [DevLogLogan](https://www.youtube.com/@DevLogLogan)                     |                                                    |
+| FinePointCGI            | [FinePointCGI](https://www.youtube.com/@FinePointCGI)                   |                                                    |
+| Flyn San                | [flynsarmy](https://www.youtube.com/@flynsarmy)                         |                                                    |
+| GDQuest                 | [Gdquest](https://www.youtube.com/@Gdquest)                             |                                                    |
+| Godotneers              | [godotneers](https://www.youtube.com/@godotneers)                       |                                                    |
+| Gwizz                   | [Gwizz1027](https://www.youtube.com/@Gwizz1027)                         |                                                    |
+| HeartBeast              | [uheartbeast](https://www.youtube.com/@uheartbeast)                     |                                                    |
+| Jackie Codes            | [JackieCodes](https://www.youtube.com/@JackieCodes)                     | [jackie_codes](https://www.twitch.tv/jackie_codes) |
+| jitspoe                 | [jitspoe](https://www.youtube.com/jitspoe)                              | [jitspoe](https://www.twitch.tv/jitspoe)           |
+| Lukky                   | [lukky.](https://www.youtube.com/@lukky.)                               |                                                    |
+| Maker Tech              | [MakerTech](https://www.youtube.com/@MakerTech)                         |                                                    |
+| Nanotech Gamedev        | [nanotechgamedev](https://www.youtube.com/@nanotechgamedev)             |                                                    |
+| PlayWithFurcifer        | [PlayWithFurcifer](https://www.youtube.com/@PlayWithFurcifer)           |                                                    |
+| quwatz_                 | [quwatz](https://www.youtube.com/@quwatz)                               |                                                    |
+| something like games    | [somethinglikegames](https://www.youtube.com/@somethinglikegames)       |                                                    |
+| TeaHands                | [teahands](https://www.youtube.com/@teahands)                           |                                                    |
+| The Polyglot Programmer | [thepolyglotprogrammer](https://www.youtube.com/@thepolyglotprogrammer) |                                                    |
+| while(free)             | [whilefree](https://www.youtube.com/@whilefree)                         |                                                    |
 
 ## Example projects and templates
 
@@ -110,6 +110,7 @@ YouTube and Twitch streamer.
 - GDQuest: Access Nodes https://www.youtube.com/watch?v=UxwKeoENwwE
 - GDQuest: Undocking and Moving Docks https://www.youtube.com/watch?v=gqfWjDhAFWA
 - Godotneers: Learn programming with GDScript https://www.youtube.com/watch?v=cx_yTggSENU
+- Cashew OldDew: Git basics [YouTube](https://www.youtube.com/watch?v=t2fAD5wPXEk)
 
 ### Tutorial Series / Complete Games
 
@@ -145,7 +146,7 @@ YouTube and Twitch streamer.
 #### Coroutines / Async & Await
 
 - GDQuest: Coroutines, Async & Await https://www.youtube.com/watch?v=zumZ2Y9mPNQ
-- Cashew OldDew: Coroutines, Async & Await https://www.youtube.com/watch?v=EaVRT_YbmWY
+- Cashew OldDew: Coroutines, Async & Await [YouTube](https://www.youtube.com/watch?v=EaVRT_YbmWY) [Github](https://github.com/cashew-olddew/godot-tutorials/tree/main/multiple%20versions/1%20-%20Coroutines,%20yield%20&%20await)
 
 ### Architecture
 
@@ -183,6 +184,7 @@ YouTube and Twitch streamer.
 - ThinkWithGames: Isometric Basics https://www.youtube.com/playlist?list=PLdgx0D0W--abiIP3d95SUClhkMd10V5m2
 - Jackie Codes: TileMap Tutorial https://www.youtube.com/watch?v=G6TC6ukmSc4
 - DashNothing: Damage Numbers https://www.youtube.com/watch?v=F0DQLSiLkjg
+- Cashew OldDew: Automatically zoom camera to a Tilemap [YouTube](https://www.youtube.com/watch?v=sSojoDM-0Ps) [Github](https://github.com/cashew-olddew/godot-tutorials/tree/main/4.2/2%20-%20auto-scaled%20scrollable%20camera)
 
 ### 3D
 
@@ -243,10 +245,17 @@ YouTube and Twitch streamer.
 - using microphone input https://shaggydev.com/2022/07/14/godot-microphone/
 - FinePointCGI: Basics of VOIP https://www.youtube.com/watch?v=AomgXrpiRmM
 
-### AI and Navigation
+### AI, Navigation and Pathfinding
 
-- 3D Navigation in Godot https://www.danieltperry.me/post/godot-navigation/
-- DevLogLogan: AI Pathfinding/Navigation https://www.youtube.com/watch?v=-juhGgA076E
+#### 2D
+
+- Cashew OldDew: 2D Grid Pathfinding with AStar [YouTube](https://www.youtube.com/watch?v=OMrDS0zlr-k) [Github](https://github.com/cashew-olddew/godot-tutorials/tree/main/4.2/3%20-%20pathfinding%20grids%20in%20godot%204.2)
+- Cashew OldDew: 2D Pathfinding on a Tilemap [YouTube](https://www.youtube.com/watch?v=ztX4OV6Syn8) [Github](https://github.com/cashew-olddew/godot-tutorials/tree/main/4.2/1%20-%20tilemap%20pathfinding)
+
+#### 3D
+
+- DanielTPerry: 3D Navigation in Godot [DanielTPerry.me Blog](https://www.danieltperry.me/post/godot-navigation/)
+- DevLogLogan: 3D AI Pathfinding/Navigation https://www.youtube.com/watch?v=-juhGgA076E
 - moeDev: Add Pathfinding or Navigation in 3D https://www.youtube.com/watch?v=_XweZXwQgFM
 - Michael Jared: Custom NavMeshes https://www.youtube.com/watch?v=3Usu6WDQHfA
 
@@ -313,6 +322,7 @@ YouTube and Twitch streamer.
 - FencerDevLog: Pause and Resume https://www.youtube.com/watch?v=kn8yOGEvCo0
 - Ivorius: Gravity of Spheres https://www.youtube.com/watch?v=7gZzDM-29WQ https://github.com/Ivorforce/Godot4-Custom-Gravity/
 - Nishchal Bhandari: Building Better Movement https://nishchalb.github.io/posts/godot_building_better_movement/
+- Cashew OldDew: Steer and Draw Forces in 2D [YouTube](https://www.youtube.com/watch?v=yUa1WxSXprI) [Github](https://github.com/cashew-olddew/godot-tutorials/tree/main/4.2/4%20-%20steering%20and%20visualizing%20forces)
 
 #### Inventory
 
