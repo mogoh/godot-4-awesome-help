@@ -71,11 +71,12 @@ YouTube and Twitch streamer.
 | Nanotech Gamedev        | [nanotechgamedev](https://www.youtube.com/@nanotechgamedev)             |                                                    |
 | PlayWithFurcifer        | [PlayWithFurcifer](https://www.youtube.com/@PlayWithFurcifer)           |                                                    |
 | quwatz_                 | [quwatz](https://www.youtube.com/@quwatz)                               |                                                    |
+| SirLich                 | [SirLich](https://www.youtube.com/@SirLich                              |                                                    | ) |
 | something like games    | [somethinglikegames](https://www.youtube.com/@somethinglikegames)       |                                                    |
+| StayAtHomeDev           | [stayathomedev](https://www.youtube.com/@stayathomedev)                 |                                                    |
 | TeaHands                | [teahands](https://www.youtube.com/@teahands)                           |                                                    |
 | The Polyglot Programmer | [thepolyglotprogrammer](https://www.youtube.com/@thepolyglotprogrammer) |                                                    |
 | while(free)             | [whilefree](https://www.youtube.com/@whilefree)                         |                                                    |
-| StayAtHomeDev           | https://www.youtube.com/@stayathomedev                                  |                                                    |
 
 ## Example projects and templates
 
@@ -105,7 +106,9 @@ YouTube and Twitch streamer.
 - Game Dev Artisan: Godot Fundamentals https://www.youtube.com/playlist?list=PLrnWJKR7bTuw7L0g70GzCM-cUr9XmtnAp
 - Learn GDScript From Zero (Interactive Website to learn Godot made with Godot) https://gdquest.github.io/learn-gdscript/
 - https://docs.godotengine.org/en/stable/getting_started/introduction/index.html
-- Maker Tech: Action RPG https://www.youtube.com/playlist?list=PLMQtM2GgbPEVuTgD4Ln17ombTg6EahSLr
+- Maker Tech: Action RPG
+  - https://www.youtube.com/playlist?list=PLMQtM2GgbPEVuTgD4Ln17ombTg6EahSLr
+  - https://www.youtube.com/playlist?list=PLMQtM2GgbPEWCCJG8xywVPrOBcU6KpcNq
 - Yet Another Roguelike Tutorial in Godot https://github.com/SelinaDev/Godot-Roguelike-Tutorial
 - GDQuest: Move, Rotate and Scale 3D Models https://www.youtube.com/watch?v=mK2oSutQLds
 - GDQuest: Access Nodes https://www.youtube.com/watch?v=UxwKeoENwwE
@@ -248,6 +251,7 @@ YouTube and Twitch streamer.
 - Game Dev Artisan: Control SFX and Music https://www.youtube.com/watch?v=h3_1dfPHXDg
 - using microphone input https://shaggydev.com/2022/07/14/godot-microphone/
 - FinePointCGI: Basics of VOIP https://www.youtube.com/watch?v=AomgXrpiRmM
+- Material Based Footstep Sounds in Godot [footnotesforthefuture.com](http://www.footnotesforthefuture.com/words/godot-identifying-materials/) [github.com](https://github.com/alexjhetherington/godot-identifying-materials-examples/)
 
 ### AI, Navigation and Pathfinding
 
@@ -294,6 +298,7 @@ YouTube and Twitch streamer.
 - Digvijaysinh Gohil: Ray-marching https://www.youtube.com/watch?v=68G3V5Yr8FY
 - Digvijaysinh Gohil: Chroma key visual shader (Green screen remover) https://www.youtube.com/watch?v=cnaOhKxE69U
 - Heartbeast: Flat (2D) Fire Shader https://www.youtube.com/watch?v=sCIr_58NN48
+- Bonkahe: Basic Shader Tutorial https://www.youtube.com/watch?v=99COaM7q4y8
 
 ### Procedural Generation
 
@@ -317,6 +322,7 @@ YouTube and Twitch streamer.
 - Whiskeybarrel Studios: Localize your game https://www.youtube.com/watch?v=QT3S2e8OOiU
 - Voylin's GameDev Journey: Localization with POT-Files https://www.youtube.com/watch?v=lwQs-h7kyuM
 - Translate custom Resources https://rp.wtf/articles/translate-custom-resources-in-godot/
+- Cashew OldDew: Master Godot Localization https://www.youtube.com/watch?v=v0tJPsNNOM8
 
 ### Problem specific
 
@@ -338,6 +344,7 @@ YouTube and Twitch streamer.
 - Cashew OldDew: Tips for debugging https://www.youtube.com/watch?v=E1wJp2PWV6k
 - Chaff Games: How to make an FOV slider https://www.youtube.com/watch?v=4bl4-EzFJvA
 - GDQuest: Clipping Masks https://www.youtube.com/watch?v=W4j4tnQLcTA
+- Byte Myke: Drag & Drop https://www.youtube.com/watch?v=neZ9tLVUDk4
 
 #### Inventory
 
@@ -376,7 +383,8 @@ YouTube and Twitch streamer.
 - HeightMap terrain plugin for Godot Engine https://github.com/Zylann/godot_heightmap_plugin
 - Spatial Gardener: A Godot plugin for painting foliage and props on any 3D surface https://github.com/dreadpon/godot_spatial_gardener
 - WFC (Wave Function Collapse) and generic constraint-solving (a fancy way of saying "model synthesis". No quantum physics involved) https://github.com/AlexeyBond/godot-constraint-solving
-- mohsen zare: Generating Moutain terrain https://www.youtube.com/watch?v=7CTH6bP850I
+- mohsen zare: Generating Moutain terrain https://www.youtube.com/watch?v=7CTH6bP850I https://www.youtube.com/watch?v=UEaJnieAmwE
+- Karl Johannisson (maywake): Infinite Procedurally Generated 3D Game World https://www.youtube.com/watch?v=HGo-sh76BdQ https://github.com/karljohannisson/godot-procedurally-generated-world-tutorial
 
 ### Input
 
@@ -407,6 +415,7 @@ YouTube and Twitch streamer.
 - Godot State Charts https://github.com/derkork/godot-statecharts
 - Godotneers: Data models https://www.youtube.com/watch?v=4vAkTHeoORk
 - SirLich: Cuotom Nodes https://www.youtube.com/watch?v=xhoVDeLMcks
+- Firebelley Games: Composition over Inheritance https://www.youtube.com/watch?v=rCu8vQrdDDI
 
 ### Tweens
 
