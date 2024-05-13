@@ -75,6 +75,7 @@ YouTube and Twitch streamer.
 | TeaHands                | [teahands](https://www.youtube.com/@teahands)                           |                                                    |
 | The Polyglot Programmer | [thepolyglotprogrammer](https://www.youtube.com/@thepolyglotprogrammer) |                                                    |
 | while(free)             | [whilefree](https://www.youtube.com/@whilefree)                         |                                                    |
+| StayAtHomeDev           | https://www.youtube.com/@stayathomedev                                  |                                                    |
 
 ## Example projects and templates
 
@@ -111,6 +112,8 @@ YouTube and Twitch streamer.
 - GDQuest: Undocking and Moving Docks https://www.youtube.com/watch?v=gqfWjDhAFWA
 - Godotneers: Learn programming with GDScript https://www.youtube.com/watch?v=cx_yTggSENU
 - Cashew OldDew: Git basics [YouTube](https://www.youtube.com/watch?v=t2fAD5wPXEk)
+- Brackeys: Godot Beginner Tutorial https://www.youtube.com/watch?v=LOhfqjmasi0
+- Brackeys: GDScript Tutorial https://www.youtube.com/watch?v=e1zJS31tr88
 
 ### Tutorial Series / Complete Games
 
@@ -122,6 +125,7 @@ YouTube and Twitch streamer.
 - FinePointCGI: Creating an FPS https://www.youtube.com/playlist?list=PLQl2eWiUO8_KIRgkRLDDnEpOQxo5nBdkq
 - Sable Spirit Studio: Idle Game Tutorial https://www.youtube.com/playlist?list=PLgBln8F2Q8BzWYUrRSIkC2RlT-YHf0BQ3
 - GodotGameLab: Card Game (Slay the Spire-like game) https://www.youtube.com/playlist?list=PL6SABXRSlpH8CD71L7zye311cp9R4JazJ
+- StayAtHomeDev: FPS Project https://www.youtube.com/playlist?list=PLEHvj4yeNfeF6s-UVs5Zx5TfNYmeCiYwf
 
 ### Short Tips and Tricks
 
@@ -169,6 +173,7 @@ YouTube and Twitch streamer.
 - Squadron Studio: Implementing a Radial Menu Tool Selection Wheel https://www.youtube.com/watch?v=TtziEJZtWXc
 - Squadron Studio: Custom Table UI https://www.youtube.com/watch?v=Kz517iDaUtU
 - Game Dev Artisan: Controle Nodes https://www.youtube.com/watch?v=rqdt7rz5yBw
+- Game Dev Artisan: Container Nodes https://www.youtube.com/watch?v=GMKZU66uZac
 
 ### Input
 
@@ -183,6 +188,7 @@ YouTube and Twitch streamer.
 - Jackie Codes: TileMap Tutorial https://www.youtube.com/watch?v=G6TC6ukmSc4
 - DashNothing: Damage Numbers https://www.youtube.com/watch?v=F0DQLSiLkjg
 - Cashew OldDew: Automatically zoom camera to a Tilemap [YouTube](https://www.youtube.com/watch?v=sSojoDM-0Ps) [Github](https://github.com/cashew-olddew/godot-tutorials/tree/main/4.2/2%20-%20auto-scaled%20scrollable%20camera)
+- Cashew OldDew: TileMap Guide https://www.youtube.com/watch?v=AUVsX-mtuNs
 
 ### 3D
 
@@ -251,6 +257,7 @@ YouTube and Twitch streamer.
 - Cashew OldDew: 2D Pathfinding on a Tilemap [YouTube](https://www.youtube.com/watch?v=ztX4OV6Syn8) [Github](https://github.com/cashew-olddew/godot-tutorials/tree/main/4.2/1%20-%20tilemap%20pathfinding)
 - Retrobright: AStarGrid2D https://www.youtube.com/watch?v=DkAmGxRuCk4
 - ThinkWithGames: Automatic Grid Navigation https://www.youtube.com/watch?v=_VuYGmXiTw0
+- Cashew OldDew: Tilemap Pathfinding, Avoidance and Obstacles with Navigation Layers https://www.youtube.com/watch?v=yT22SXYpoYM
 
 #### 3D
 
@@ -286,6 +293,7 @@ YouTube and Twitch streamer.
 - Crigz Vs Game Dev: 3D Pixel Art Shader https://www.youtube.com/watch?v=WBoApONC7bM
 - Digvijaysinh Gohil: Ray-marching https://www.youtube.com/watch?v=68G3V5Yr8FY
 - Digvijaysinh Gohil: Chroma key visual shader (Green screen remover) https://www.youtube.com/watch?v=cnaOhKxE69U
+- Heartbeast: Flat (2D) Fire Shader https://www.youtube.com/watch?v=sCIr_58NN48
 
 ### Procedural Generation
 
@@ -295,10 +303,14 @@ YouTube and Twitch streamer.
   - https://www.youtube.com/watch?v=RhQbQuFlxhM
   - https://www.youtube.com/watch?v=SutLuWUsDY4
 
-### Export
+### Export & Platform Specific
 
 - https://docs.godotengine.org/en/stable/tutorials/export/index.html
 - Rihards Paskausks: FencerDevLog: Exporting for Windows https://www.youtube.com/watch?v=WoXtLBuK11Y
+
+#### Android
+
+- FinePointCGI: Building a V2 android plugin https://www.youtube.com/watch?v=Vy9Nrbrr8H8
 
 ### Internationalization / Localization / Translation
 
@@ -323,6 +335,9 @@ YouTube and Twitch streamer.
 - Ivorius: Gravity of Spheres https://www.youtube.com/watch?v=7gZzDM-29WQ https://github.com/Ivorforce/Godot4-Custom-Gravity/
 - Nishchal Bhandari: Building Better Movement https://nishchalb.github.io/posts/godot_building_better_movement/
 - Cashew OldDew: Steer and Draw Forces in 2D [YouTube](https://www.youtube.com/watch?v=yUa1WxSXprI) [Github](https://github.com/cashew-olddew/godot-tutorials/tree/main/4.2/4%20-%20steering%20and%20visualizing%20forces)
+- Cashew OldDew: Tips for debugging https://www.youtube.com/watch?v=E1wJp2PWV6k
+- Chaff Games: How to make an FOV slider https://www.youtube.com/watch?v=4bl4-EzFJvA
+- GDQuest: Clipping Masks https://www.youtube.com/watch?v=W4j4tnQLcTA
 
 #### Inventory
 
@@ -399,6 +414,10 @@ YouTube and Twitch streamer.
 - Tweens Comparision https://popcar2.itch.io/tweens-comparison
 - The Polyglot Programmer: Tweens https://www.youtube.com/watch?v=b1EJOCxlTeg
 
+### Godot QoL improvements
+
+- SirLich: Asset Browser in Godot https://www.youtube.com/watch?v=YOonjwOQJgg https://github.com/SirLich/gd-explorer
+
 ### Other
 
 - Cyclops Level Builder: A Godot plugin to let you block in levels inside the Godot editor https://github.com/blackears/cyclopsLevelBuilder
@@ -467,6 +486,7 @@ YouTube and Twitch streamer.
 - https://ambientcg.com/ CC0
 - https://www.cgbookcase.com/textures/ CC0
 - https://www.sharetextures.com/ CC0
+- http://texturelib.com/ (free, but specific self created license)
 
 #### Pixelart
 
@@ -487,6 +507,7 @@ YouTube and Twitch streamer.
 - https://assethunts.itch.io/ CC0
 - https://sketchfab.com/ (partly commercial, partly free: CC0, CC-BY, other)
 - https://sketchfab.com/evolveduk CC-BY
+- https://www.cgtrader.com/ (partly commercial, partly free)
 - https://polyhaven.com/models CC0
 - https://www.sharetextures.com/ CC0
 - https://polygone.art/ CC-BY
@@ -502,6 +523,7 @@ YouTube and Twitch streamer.
 
 ##### SFX
 
+- https://www.zapsplat.com/ (Free, differen licenses)
 - https://www.kenney.nl/assets/category:Audio?sort=update CC0
 - https://opengameart.org/art-search-advanced?keys=&title=&field_art_tags_tid_op=or&field_art_tags_tid=&name=&field_art_type_tid%5B%5D=13&sort_by=count&sort_order=DESC&items_per_page=144&Collection=  CC0, CC-BY, OGA-BY
 - https://freesound.org/ CC0, CC-BY
@@ -510,12 +532,26 @@ YouTube and Twitch streamer.
 
 - https://opengameart.org/art-search-advanced?keys=&title=&field_art_tags_tid_op=or&field_art_tags_tid=&name=&field_art_type_tid%5B%5D=12&sort_by=count&sort_order=DESC&items_per_page=144&Collection=  CC0, CC-BY, OGA-BY
 - https://freemusicarchive.org/ (Free, differen licenses)
+- https://pixabay.com/music/ (Free, specific licenses?)
 
 #### Fonts
 
 - https://fonts.google.com/ (free, OFL mostly)
 - https://www.fontsquirrel.com/ (free, different licenses)
 - https://www.dafont.com/ (different licenses per download)
+
+#### Shaderes
+
+- https://godotshaders.com/
+- https://www.shadertoy.com/
+
+#### AI Generated
+
+So, AI is a controversial topic to say the least.
+Also a lot of things are changing fast.
+Thus be careful using the list below.
+
+- AI generated music https://www.udio.com/
 
 ### Tools
 
@@ -538,3 +574,4 @@ External lists, that might be helpful.
 - https://www.reddit.com/r/gamedev/search/?q=flair_name%3AAssets&restrict_sr=1&sort=top&t=all
 - https://www.reddit.com/r/gameassets/
 - https://itch.io/game-assets/free
+- https://github.com/Miziziziz/Retro3DGraphicsCollection
