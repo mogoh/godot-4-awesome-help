@@ -95,6 +95,7 @@ YouTube and Twitch streamer.
 - https://github.com/Phazorknight/Cogito
 - https://gitlab.com/20-games-in-30-days/godot-4-game-template
 - https://gitlab.com/b4ux1t3/LearningTheControls
+- https://github.com/baconandgames/godot4-game-template/ https://www.youtube.com/watch?v=tNqFLmbWW-Y
 
 ## Documentation and Tutorials
 
@@ -113,7 +114,9 @@ YouTube and Twitch streamer.
 - GDQuest: Move, Rotate and Scale 3D Models https://www.youtube.com/watch?v=mK2oSutQLds
 - GDQuest: Access Nodes https://www.youtube.com/watch?v=UxwKeoENwwE
 - GDQuest: Undocking and Moving Docks https://www.youtube.com/watch?v=gqfWjDhAFWA
-- Godotneers: Learn programming with GDScript https://www.youtube.com/watch?v=cx_yTggSENU
+- Godotneers: Learn programming with GDScript
+  - https://www.youtube.com/watch?v=cx_yTggSENU
+  - https://www.youtube.com/watch?v=f5i9pErfvj8
 - Cashew OldDew: Git basics [YouTube](https://www.youtube.com/watch?v=t2fAD5wPXEk)
 - Brackeys: Godot Beginner Tutorial https://www.youtube.com/watch?v=LOhfqjmasi0
 - Brackeys: GDScript Tutorial https://www.youtube.com/watch?v=e1zJS31tr88
@@ -149,6 +152,7 @@ YouTube and Twitch streamer.
 - Unain: Custom Resources https://www.youtube.com/watch?v=NuLSYHK-8Yg
 - Tutemic: Interfaces-like in GDScript https://www.youtube.com/watch?v=pBs6c902P0Q
 - SirLich: Godot Singletons https://www.youtube.com/watch?v=ske-iL4mxdI
+- Duroxxigar: Custom Main loop https://www.youtube.com/watch?v=fCk7mtf0XX4
 
 #### Coroutines / Async & Await
 
@@ -177,6 +181,8 @@ YouTube and Twitch streamer.
 - Squadron Studio: Custom Table UI https://www.youtube.com/watch?v=Kz517iDaUtU
 - Game Dev Artisan: Controle Nodes https://www.youtube.com/watch?v=rqdt7rz5yBw
 - Game Dev Artisan: Container Nodes https://www.youtube.com/watch?v=GMKZU66uZac
+- Ranger X: control nodes and container nodes https://www.youtube.com/watch?v=J6IojHlcv1k
+- ThinkWithGames: scene transitions https://www.youtube.com/watch?v=EBeyUKTapMA
 
 ### Input
 
@@ -188,10 +194,12 @@ YouTube and Twitch streamer.
 
 - KidsCanCode: Character to Rigid Body Interaction https://www.youtube.com/watch?v=SJuScDavstM
 - ThinkWithGames: Isometric Basics https://www.youtube.com/playlist?list=PLdgx0D0W--abiIP3d95SUClhkMd10V5m2
-- Jackie Codes: TileMap Tutorial https://www.youtube.com/watch?v=G6TC6ukmSc4
 - DashNothing: Damage Numbers https://www.youtube.com/watch?v=F0DQLSiLkjg
+- Jackie Codes: TileMap Tutorial https://www.youtube.com/watch?v=G6TC6ukmSc4
 - Cashew OldDew: Automatically zoom camera to a Tilemap [YouTube](https://www.youtube.com/watch?v=sSojoDM-0Ps) [Github](https://github.com/cashew-olddew/godot-tutorials/tree/main/4.2/2%20-%20auto-scaled%20scrollable%20camera)
 - Cashew OldDew: TileMap Guide https://www.youtube.com/watch?v=AUVsX-mtuNs
+- Catlike Coding: True Top-Down 2D https://catlikecoding.com/godot/true-top-down-2d/
+- ThinkWithGames: rotate tilemap tiles with code https://www.youtube.com/watch?v=WtiLCtOVC54
 
 ### 3D
 
@@ -225,6 +233,8 @@ YouTube and Twitch streamer.
   - https://www.youtube.com/watch?v=P-U7ynJxSdY
 - Michael Burt: Terrain Building https://www.youtube.com/watch?v=1uBdnktkuHU
 - Byte Myke: Easy and Automatic 3D Animations using Mixamo https://www.youtube.com/watch?v=Tbfc_5syCMk
+- Michael Jared: Blender and Godot 4 Rigging and Animating https://www.youtube.com/playlist?list=PLgi4ChzbsQvdaTpig7CmWABG56HvqVgGg
+- Michael Jared: Blender to Godot 4 Pipeline https://www.youtube.com/playlist?list=PLgi4ChzbsQvcpi-GaHJJvkNFcQYsDRqpB
 
 #### Player Controller
 
@@ -262,6 +272,7 @@ YouTube and Twitch streamer.
 - Retrobright: AStarGrid2D https://www.youtube.com/watch?v=DkAmGxRuCk4
 - ThinkWithGames: Automatic Grid Navigation https://www.youtube.com/watch?v=_VuYGmXiTw0
 - Cashew OldDew: Tilemap Pathfinding, Avoidance and Obstacles with Navigation Layers https://www.youtube.com/watch?v=yT22SXYpoYM
+- ThinkWithGames: Enemy Movement https://www.youtube.com/watch?v=Ykz7W9BHzPg
 
 #### 3D
 
@@ -281,6 +292,7 @@ YouTube and Twitch streamer.
 - CrushingJosch: Server Browser https://www.youtube.com/watch?v=x-PF_EZI2ZM
 - Networked Authentication with SceneMultiplaye https://docs.google.com/document/d/1-aifgY0WxmovcG5dVTdjlJDWzsZ0opez62O49yNdrgI/
 - Byte Myke: Make HTTP requests https://www.youtube.com/watch?v=feglSdhhS9M
+- ThinkWithGames: Multiplayer Tutorial https://www.youtube.com/watch?v=lIZ3qOo6OfU
 
 ### File and data I/O
 
@@ -299,6 +311,13 @@ YouTube and Twitch streamer.
 - Digvijaysinh Gohil: Chroma key visual shader (Green screen remover) https://www.youtube.com/watch?v=cnaOhKxE69U
 - Heartbeast: Flat (2D) Fire Shader https://www.youtube.com/watch?v=sCIr_58NN48
 - Bonkahe: Basic Shader Tutorial https://www.youtube.com/watch?v=99COaM7q4y8
+- Digvijaysinh Gohil: Star field skybox shader https://www.youtube.com/watch?v=I53YHJkolzM https://godotengine.org/asset-library/asset/2503 https://github.com/DigvijaysinhGohil/Godot-Shader-Lib/blob/main/documentation/Documentation.md
+- ThinkWithGames:  Distort and Invert https://www.youtube.com/watch?v=DlwyfdDOxLc
+- Crow Games: Ice Shader with Parallax https://www.youtube.com/watch?v=o9soISQVZWY https://github.com/tailsc/tailsc/tree/main/Resources/Godot/Godot%20Parallax%20Ice%20Shader%20-%20Tutorial
+
+### Rendering, Viewports
+
+- FencerDevLog: 3D scene in 2D environment (SubViewport tutorial) https://www.youtube.com/watch?v=8jUNK_7Au-0
 
 ### Procedural Generation
 
@@ -307,6 +326,7 @@ YouTube and Twitch streamer.
 - Riesenrad Game Studios: Random 2D World Generation
   - https://www.youtube.com/watch?v=RhQbQuFlxhM
   - https://www.youtube.com/watch?v=SutLuWUsDY4
+- Kuchi: Procedural 3D Dungeon Generation https://www.youtube.com/watch?v=vWDQcCT-Fg0
 
 ### Export & Platform Specific
 
@@ -345,6 +365,7 @@ YouTube and Twitch streamer.
 - Chaff Games: How to make an FOV slider https://www.youtube.com/watch?v=4bl4-EzFJvA
 - GDQuest: Clipping Masks https://www.youtube.com/watch?v=W4j4tnQLcTA
 - Byte Myke: Drag & Drop https://www.youtube.com/watch?v=neZ9tLVUDk4
+- jovlem: Create 3D Laser Beams https://www.youtube.com/watch?v=D3U2UUrO9D8
 
 #### Inventory
 
@@ -372,6 +393,7 @@ YouTube and Twitch streamer.
 - Arrow: The Game Narrative Design Tool https://github.com/mhgolkar/Arrow
 - Dialogue Manager https://github.com/nathanhoad/godot_dialogue_manager
 - Dialogic: Create dialogs, characters and scenes to display conversations https://github.com/coppolaemilio/dialogic
+- Dialogue Nodes: https://github.com/nagidev/DialogueNodes
 
 ### Procedual Generation
 
@@ -383,7 +405,7 @@ YouTube and Twitch streamer.
 - HeightMap terrain plugin for Godot Engine https://github.com/Zylann/godot_heightmap_plugin
 - Spatial Gardener: A Godot plugin for painting foliage and props on any 3D surface https://github.com/dreadpon/godot_spatial_gardener
 - WFC (Wave Function Collapse) and generic constraint-solving (a fancy way of saying "model synthesis". No quantum physics involved) https://github.com/AlexeyBond/godot-constraint-solving
-- mohsen zare: Generating Moutain terrain https://www.youtube.com/watch?v=7CTH6bP850I https://www.youtube.com/watch?v=UEaJnieAmwE
+- M Terrain https://github.com/mohsenph69/Godot-MTerrain-plugin https://www.youtube.com/@mohsenzare2511/videos
 - Karl Johannisson (maywake): Infinite Procedurally Generated 3D Game World https://www.youtube.com/watch?v=HGo-sh76BdQ https://github.com/karljohannisson/godot-procedurally-generated-world-tutorial
 
 ### Input
@@ -392,6 +414,7 @@ YouTube and Twitch streamer.
 - Godot Controls Remap: A Resource for Godot engine that will store your input mapping. https://github.com/KoBeWi/Godot-Input-Remap
 - A simple input helper for the Godot Engine https://github.com/nathanhoad/godot_input_helper
 - Achieving better mouse input: The perfect camera controller https://yosoyfreeman.github.io/article/godot/tutorial/achieving-better-mouse-input-in-godot-4-the-perfect-camera-controller/
+- Chevifier: Plane Controller https://www.youtube.com/watch?v=hObR7r3GOMs
 
 ### File access and save
 
