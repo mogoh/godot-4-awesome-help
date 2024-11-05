@@ -49,34 +49,36 @@ The same goes for bad sorted stuff.
 
 YouTube and Twitch streamer.
 
-|                         | YouTube                                                                 | Twitch                                             |
-| ----------------------- | ----------------------------------------------------------------------- | -------------------------------------------------- |
-| bitbrain                | [bitbraindev](https://www.youtube.com/@bitbraindev)                     |                                                    |
-| Bitlytic                | [Bitlytic](https://www.youtube.com/@Bitlytic)                           |                                                    |
-| Bonkahe                 | [Bonkahe](https://www.youtube.com/@Bonkahe)                             |                                                    |
-| Cashew OldDew           | [cashewolddew](https://www.youtube.com/@cashewolddew)                   | [olddews](https://www.twitch.tv/olddews)           |
-| Chaff Games             | [Chaff_Games](https://www.youtube.com/@Chaff_Games)                     |                                                    |
-| DashNothing             | [DashNothing](https://www.youtube.com/@DashNothing)                     |                                                    |
-| DevLogLogan             | [DevLogLogan](https://www.youtube.com/@DevLogLogan)                     |                                                    |
-| FinePointCGI            | [FinePointCGI](https://www.youtube.com/@FinePointCGI)                   |                                                    |
-| Flyn San                | [flynsarmy](https://www.youtube.com/@flynsarmy)                         |                                                    |
-| GDQuest                 | [Gdquest](https://www.youtube.com/@Gdquest)                             |                                                    |
-| Godotneers              | [godotneers](https://www.youtube.com/@godotneers)                       |                                                    |
-| Gwizz                   | [Gwizz1027](https://www.youtube.com/@Gwizz1027)                         |                                                    |
-| HeartBeast              | [uheartbeast](https://www.youtube.com/@uheartbeast)                     |                                                    |
-| Jackie Codes            | [JackieCodes](https://www.youtube.com/@JackieCodes)                     | [jackie_codes](https://www.twitch.tv/jackie_codes) |
-| jitspoe                 | [jitspoe](https://www.youtube.com/jitspoe)                              | [jitspoe](https://www.twitch.tv/jitspoe)           |
-| Lukky                   | [lukky.](https://www.youtube.com/@lukky.)                               |                                                    |
-| Maker Tech              | [MakerTech](https://www.youtube.com/@MakerTech)                         |                                                    |
-| Nanotech Gamedev        | [nanotechgamedev](https://www.youtube.com/@nanotechgamedev)             |                                                    |
-| PlayWithFurcifer        | [PlayWithFurcifer](https://www.youtube.com/@PlayWithFurcifer)           |                                                    |
-| quwatz_                 | [quwatz](https://www.youtube.com/@quwatz)                               |                                                    |
-| SirLich                 | [SirLich](https://www.youtube.com/@SirLich                              |                                                    | ) |
-| something like games    | [somethinglikegames](https://www.youtube.com/@somethinglikegames)       |                                                    |
-| StayAtHomeDev           | [stayathomedev](https://www.youtube.com/@stayathomedev)                 |                                                    |
-| TeaHands                | [teahands](https://www.youtube.com/@teahands)                           |                                                    |
-| The Polyglot Programmer | [thepolyglotprogrammer](https://www.youtube.com/@thepolyglotprogrammer) |                                                    |
-| while(free)             | [whilefree](https://www.youtube.com/@whilefree)                         |                                                    |
+|                         | YouTube                                                                   | Twitch                                             |
+| ----------------------- | ------------------------------------------------------------------------- | -------------------------------------------------- |
+| bitbrain                | [bitbraindev](https://www.youtube.com/@bitbraindev)                       |                                                    |
+| Bitlytic                | [Bitlytic](https://www.youtube.com/@Bitlytic)                             |                                                    |
+| Bonkahe                 | [Bonkahe](https://www.youtube.com/@Bonkahe)                               |                                                    |
+| Cashew OldDew           | [cashewolddew](https://www.youtube.com/@cashewolddew)                     | [olddews](https://www.twitch.tv/olddews)           |
+| Chaff Games             | [Chaff_Games](https://www.youtube.com/@Chaff_Games)                       |                                                    |
+| DashNothing             | [DashNothing](https://www.youtube.com/@DashNothing)                       |                                                    |
+| DevLogLogan             | [DevLogLogan](https://www.youtube.com/@DevLogLogan)                       |                                                    |
+| FinePointCGI            | [FinePointCGI](https://www.youtube.com/@FinePointCGI)                     |                                                    |
+| Flyn San                | [flynsarmy](https://www.youtube.com/@flynsarmy)                           |                                                    |
+| GDQuest                 | [Gdquest](https://www.youtube.com/@Gdquest)                               |                                                    |
+| Godotneers              | [godotneers](https://www.youtube.com/@godotneers)                         |                                                    |
+| Gwizz                   | [Gwizz1027](https://www.youtube.com/@Gwizz1027)                           |                                                    |
+| HeartBeast              | [uheartbeast](https://www.youtube.com/@uheartbeast)                       |                                                    |
+| Jackie Codes            | [JackieCodes](https://www.youtube.com/@JackieCodes)                       | [jackie_codes](https://www.twitch.tv/jackie_codes) |
+| jitspoe                 | [jitspoe](https://www.youtube.com/jitspoe)                                | [jitspoe](https://www.twitch.tv/jitspoe)           |
+| Lukky                   | [lukky.](https://www.youtube.com/@lukky.)                                 |                                                    |
+| Maker Tech              | [MakerTech](https://www.youtube.com/@MakerTech)                           |                                                    |
+| Nanotech Gamedev        | [nanotechgamedev](https://www.youtube.com/@nanotechgamedev)               |                                                    |
+| PlayWithFurcifer        | [PlayWithFurcifer](https://www.youtube.com/@PlayWithFurcifer)             |                                                    |
+| quwatz_                 | [quwatz](https://www.youtube.com/@quwatz)                                 |                                                    |
+| SirLich                 | [SirLich](https://www.youtube.com/@SirLich)                               |                                                    |
+| something like games    | [somethinglikegames](https://www.youtube.com/@somethinglikegames)         |                                                    |
+| StayAtHomeDev           | [stayathomedev](https://www.youtube.com/@stayathomedev)                   |                                                    |
+| TeaHands                | [teahands](https://www.youtube.com/@teahands)                             |                                                    |
+| The Polyglot Programmer | [thepolyglotprogrammer](https://www.youtube.com/@thepolyglotprogrammer)   |                                                    |
+| while(free)             | [whilefree](https://www.youtube.com/@whilefree)                           |                                                    |
+| Michael Jared           | [Michael Jared](https://www.youtube.com/channel/UCXUOKKUDsUUXi_0bXGRvaYQ) |                                                    |
+| DevLogLogan             | [DevLogLogan](https://www.youtube.com/@DevLogLogan)                       |                                                    |
 
 ## Example projects and templates
 
